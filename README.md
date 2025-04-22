@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋, I'm Enis Tunç  
+I am passionate about **Artificial Intelligence**, especially deep learning and neural networks.  
+🌱 I’m currently working on projects involving **CNNs, RNNs, LSTMs, and Transfer Learning**.
 
-<!--
-**huseyin-dgn/huseyin-dgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Deep Learning & AI  
+Convolutional Neural Networks (CNN)  
+Recurrent Neural Networks (RNN / LSTM)  
+Transfer Learning (VGG16, ResNet50)  
+Attention Mechanisms, Residual Connections
 
-Here are some ideas to get you started:
+🛠️ Tools & Frameworks  
+Python, TensorFlow, Keras, NumPy, Pandas, OpenCV  
+Matplotlib, Seaborn, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Current Interests  
+- Image classification & segmentation  
+- Time series forecasting with LSTM  
+- Sentiment and emotion analysis  
+- AI-powered chatbots
+
+🚀 Always exploring the future of AI, one model at a time.
