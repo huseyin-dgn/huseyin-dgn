@@ -1,15 +1,16 @@
 # 👋 Merhaba, Ben Hüseyin Doğan
 
-![AI Banner](https://raw.githubusercontent.com/huseyinndogan/assets/main/ai_banner.gif)
+![AI Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Meraklı bir **Yapay Zeka ve Derin Öğrenme tutkunu**yum.  
-🌱 Şu anda **neural network, deep learning ve AI projeleri** üzerinde çalışıyorum ve ileri seviye yapay zeka konularını araştırıyorum.
+Meraklı bir **Yapay Zeka ve Derin Öğrenme uzmanı adayı**yım.  
+🌱 Şu anda **derin öğrenme, neural network ve ileri seviye AI projeleri** üzerinde çalışıyorum, araştırmalar yapıyorum ve uygulamalı projeler geliştiriyorum.
 
 ---
 
 ## 🚀 Sürekli Öğrenme
 
-Gerçek dünya projeleri, yarışmalar ve **state-of-the-art AI modelleri** üzerinde derinlemesine çalışmalarla becerilerimi geliştiriyorum.  
+Gerçek dünya projeleri ve yarışmalar aracılığıyla **pratik becerilerimi geliştiriyorum**.  
+State-of-the-art AI modelleri üzerinde deney yaparak bilgi birikimimi artırıyorum.
 
 ---
 
@@ -17,37 +18,27 @@ Gerçek dünya projeleri, yarışmalar ve **state-of-the-art AI modelleri** üze
 
 | Dil / Framework | Logo |
 |----------------|------|
-| Python | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) |
-| PyTorch | ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) |
-| TensorFlow | ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) |
-| NumPy | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) |
-| Pandas | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) |
-| Matplotlib | ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) |
-| Seaborn | ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png) |
+| Python | ![Python](https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png) |
+| PyTorch | ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png) |
+| TensorFlow | ![TensorFlow](https://cdn.iconscout.com/icon/free/png-256/tensorflow-3-1175070.png) |
+| NumPy | ![NumPy](https://cdn.iconscout.com/icon/free/png-256/numpy-3628980-3030170.png) |
+| Pandas | ![Pandas](https://cdn.iconscout.com/icon/free/png-256/pandas-3628956-3030145.png) |
+| Matplotlib | ![Matplotlib](https://cdn.iconscout.com/icon/free/png-256/matplotlib-3628973-3030163.png) |
+| Seaborn | ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) |
 
 ---
 
 ## 📊 Projeler ve Kaggle
 
-Projelerimi inceleyebilir ve kendi projelerimle ilgili notlarımı görebilirsiniz:  
+Projelerimi inceleyebilir ve uygulamalı notlarımı görebilirsiniz:  
 
 👉 [Kaggle Profilim](https://www.kaggle.com/huseyinndogan)  
 
-![Data Science GIF](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
-
----
-
-## ✨ Hedeflerim
-
-- Derin öğrenme ve yapay zekada **uzmanlaşmak**  
-- Açık kaynak projelerle **katkı sağlamak**  
-- AI yarışmalarında **ilk sıralara çıkmak**
+![AI GIF](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 ---
 
 ## 📬 İletişim
 
 - LinkedIn: [Hüseyin Doğan](https://www.linkedin.com/in/huseyinndogan/)  
-- E-mail: huseyinndogan@example.com  
-
----
+- Medium : [Hüseyin Doğan](https://medium.com/@hdgn5838)
