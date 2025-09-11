@@ -1,6 +1,5 @@
 # 👋 Merhaba, Ben Hüseyin Doğan
 
-![AI Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 Meraklı bir **Yapay Zeka ve Derin Öğrenme uzmanı adayı**yım.  
 🌱 Şu anda **derin öğrenme, neural network ve ileri seviye AI projeleri** üzerinde çalışıyorum, araştırmalar yapıyorum ve uygulamalı projeler geliştiriyorum.
