@@ -14,5 +14,5 @@ Projelerimi inceleyebilir ve kendi projelerimle ilgili notlarımı görebilirsin
 
 ## 📬 İletişim
 
-- LinkedIn: [Hüseyin Doğan](https://www.linkedin.com/in/huseyinndogan/)  
+- LinkedIn: [Hüseyin Doğan](https://www.linkedin.com/in/huseyin-dogan-47136333b/)  
 - Medium: [Hüseyin Doğan](https://medium.com/@hdgn5838)
