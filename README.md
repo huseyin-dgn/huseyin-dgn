@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Hüseyin Doğan
 
-Meraklı bir **Yapay Zeka ve Derin Öğrenme** tutkunu.  
-🌱 Şu anda **neural network, deep learning ve AI projeleri** üzerinde çalışıyorum.
+Meraklı bir **Yapay Zeka ve Gömülü Sistemler** tutkunu.  
+🌱 Şu anda **neural network, deep learning ve gömülü sistemler** üzerinde çalışıyorum.
 
 ---
 
