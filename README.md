@@ -1,64 +1,67 @@
-# 👋 Merhaba, Ben Hüseyin Doğan
+# 👋 Hi, I’m Hüseyin Doğan
 
-**Computer Vision & AI Engineer adayıyım.**  
-Gerçek dünya problemlerini çözmeye odaklı bir mühendislik yaklaşımıyla, **görüntü işleme, nesne tespiti, derin öğrenme ve Python/C++ tabanlı altyapılar** üzerine çalışıyorum.
+**Computer Vision & AI Engineer candidate.**  
+I follow an engineering-driven approach focused on solving real-world problems through **computer vision, object detection, deep learning, and Python/C++-based systems**.
 
-Şu anda ağırlıklı olarak:
+Currently, my main areas of focus include:
 - 🧠 **Computer Vision & Deep Learning**
 - 🎯 **Object Detection / Recognition (YOLO, CNN)**
-- ⚙️ **Gerçek zamanlı algılama sistemleri (OpenCV, PyTorch, C++)**
-- 🚀 **Model servisleştirme ve AI altyapı geliştirme**
-üzerinde deneysel ve üretim odaklı projeler geliştiriyorum.
+- ⚙️ **Real-time perception systems (OpenCV, PyTorch, C++)**
+- 🚀 **Model deployment and AI infrastructure development**
+
+where I develop both experimental and production-oriented projects.
 
 ---
 
-## 📌 Vizyon & Yaklaşım
+## 📌 Vision & Approach
 
-Projelerimde her zaman **uygulama odaklı sonuç, performans ve ölçeklenebilirlik** önceliğimdir. Sadece model eğitmekle kalmayıp, **gerçek zamanlı sistemler, API/servis entegrasyonu, C++ seviyesinde optimizasyonlar** ve eğitim-çalıştırma altyapılarını kapsayan eksiksiz pipeline’lar oluşturuyorum.  
-Bu yaklaşım, teoriyi pratikle birleştiren ve gerçek endüstri beklentilerine yanıt veren çözümler üretmemi sağlıyor. 
+My work prioritizes **practical results, performance, and scalability**.  
+Beyond training models, I design **end-to-end pipelines** that include real-time systems, API/service integration, C++-level optimizations, and training–inference infrastructures.  
+
+This approach allows me to bridge theory and practice while building solutions aligned with real industry requirements.
 
 ---
 
-## 🧩 Öne Çıkan Projeler
+## 🧩 Featured Projects
 
-Aşağıdaki projeler benim **stratejik ve portfolyo değerli işlerimi** temsil ediyor:
+The following projects represent my **core portfolio and strategic work**:
 
 - 🔹 **Real-Time License Plate Detection & Recognition**  
-  YOLO + CNN + OCR ile gerçek zamanlı plaka tanıma pipeline’ı.  
-  (Gerçek problem → çözüm → çıktıya odaklı implementasyon)
+  A real-time license plate recognition pipeline using YOLO, CNN, and OCR.  
+  *(Real problem → solution → production-focused implementation)*
 
 - 🔹 **cpp-to-vision-perception-roadmap**  
-  C++ temellerinden başlayarak OpenCV, LibTorch ve TorchScript ile gerçek zamanlı algılama sistemleri inşa etme yol haritası.
+  A structured roadmap for building real-time perception systems using C++, OpenCV, LibTorch, and TorchScript.
 
 - 🔹 **hyso**  
-  Custom CNN blokları ve modern attention mekanizmalarını içeren, mimari seviyede derin öğrenme kütüphanesi.
+  A deep learning library featuring custom CNN blocks and modern attention mechanisms at the architectural level.
 
 - 🔹 **HysoLLM Infrastructure Core**  
-  Transformers ve diğer model tipleri için **eğitim, logging, checkpoint, config** yönetimi sağlayan ölçeklenebilir AI altyapısı.
+  A scalable AI infrastructure for transformers and other model types, supporting training, logging, checkpointing, and configuration management.
 
 ---
 
-## 📚 Teknik Öğrenme & Deneysel Projeler
+## 📚 Technical Learning & Experimental Projects
 
-Derin öğrenme altyapımı ve modelleme yetkinliğimi güçlendirmek için geliştirdiğim bazı deneysel repo’lar:
+To strengthen my deep learning foundations and modeling skills, I actively develop experimental repositories such as:
 
-- 🔸 **Advanced AI API Development** – PyTorch modelleri için API/servis entegrasyonu  
-- 🔸 **Object Detection with YOLO & CNN** – Detaylı nesne tespiti uygulamaları  
-- 🔸 **YOLO & CNN Architecture** – Backbone/feature extraction üzerinde mimari çalışmalar  
-- 🔸 **G–L Transformer Full Pipeline** – Attention ve transformer tabanlı tam pipeline
+- 🔸 **Advanced AI API Development** – API and inference service design for PyTorch models  
+- 🔸 **Object Detection with YOLO & CNN** – End-to-end object detection pipelines  
+- 🔸 **YOLO & CNN Architecture** – Backbone design and feature extraction experiments  
+- 🔸 **G–L Transformer Full Pipeline** – Full training and inference pipeline for attention-based transformer models
 
-Bu çalışmalar temel mühendislik kararlarımın altyapısını oluşturuyor.
+These projects form the technical foundation behind my engineering decisions in production-oriented work.
 
 ---
 
-## 📊 Kaggle & Deneyimler
+## 📊 Kaggle & Experiments
 
-Projelerimi Kaggle üzerinde de düzenli olarak paylaşıyorum; burada eğitim log’ları, görselleştirmeler ve model denemeleri bulunmakta:  
+I also share experiments, training logs, visualizations, and model explorations on Kaggle:  
 👉 **Kaggle:** https://www.kaggle.com/huseyinndogan
 
 ---
 
-## 📬 İletişim
+## 📬 Contact
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/huseyin-dogan-47136333b/  
 - ✍️ **Medium:** https://medium.com/@hdgn5838
