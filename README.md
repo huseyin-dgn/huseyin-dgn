@@ -47,7 +47,7 @@ Derin öğrenme altyapımı ve modelleme yetkinliğimi güçlendirmek için geli
 - 🔸 **YOLO & CNN Architecture** – Backbone/feature extraction üzerinde mimari çalışmalar  
 - 🔸 **G–L Transformer Full Pipeline** – Attention ve transformer tabanlı tam pipeline
 
-Bu çalışmalar temel mühendislik kararlarımın altyapısını oluşturuyor. :contentReference[oaicite:2]{index=2}
+Bu çalışmalar temel mühendislik kararlarımın altyapısını oluşturuyor.
 
 ---
 
