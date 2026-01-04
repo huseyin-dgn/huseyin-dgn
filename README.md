@@ -15,7 +15,7 @@ Gerçek dünya problemlerini çözmeye odaklı bir mühendislik yaklaşımıyla,
 ## 📌 Vizyon & Yaklaşım
 
 Projelerimde her zaman **uygulama odaklı sonuç, performans ve ölçeklenebilirlik** önceliğimdir. Sadece model eğitmekle kalmayıp, **gerçek zamanlı sistemler, API/servis entegrasyonu, C++ seviyesinde optimizasyonlar** ve eğitim-çalıştırma altyapılarını kapsayan eksiksiz pipeline’lar oluşturuyorum.  
-Bu yaklaşım, teoriyi pratikle birleştiren ve gerçek endüstri beklentilerine yanıt veren çözümler üretmemi sağlıyor. :contentReference[oaicite:1]{index=1}
+Bu yaklaşım, teoriyi pratikle birleştiren ve gerçek endüstri beklentilerine yanıt veren çözümler üretmemi sağlıyor. 
 
 ---
 
