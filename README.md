@@ -39,7 +39,7 @@ The following projects represent my **core portfolio and strategic work**:
 - 🔹 **HysoLLM Infrastructure Core**  
   A scalable AI infrastructure for transformers and other model types, supporting training, logging, checkpointing, and configuration management.
 
-🔹 MotionFighter-for-YOLO (Multi-Stage Fight Detection Pipeline)
+- 🔹 **MotionFighter-for-YOLO (Multi-Stage Fight Detection Pipeline)**
   A real-time violence detection system built with a multi-stage architecture:Motion Filtering → ROI Extraction → YOLO Detection → 3D CNN Temporal Classification.Designed for computational efficiency by avoiding fullframe inference and applying spatio-temporal filtering.Includes event segmentation, stride-based detection, and temporal aggregation logic.
 (System design + optimization + deep learning integration)
 
