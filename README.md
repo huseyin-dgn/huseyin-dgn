@@ -43,6 +43,10 @@ The following projects represent my **core portfolio and strategic work**:
   A real-time violence detection system built with a multi-stage architecture:Motion Filtering → ROI Extraction → YOLO Detection → 3D CNN Temporal Classification.Designed for computational efficiency by avoiding fullframe inference and applying spatio-temporal filtering.Includes event segmentation, stride-based detection, and temporal aggregation logic.
 (System design + optimization + deep learning integration)
 
+- 🔹 **PyTorch CNN Architecture Library**
+  A modular deep learning research library implementing modern CNN building blocks: GroupNorm + Weight Standardization, DropBlock, Stochastic Depth, SE/CBAM/ECA attention, FPN/BiFPN integrations, and custom residual-attention fusion designs.Designed for experimentation, architectural benchmarking, and backbone research.
+(Model architecture engineering + research-focused experimentation)
+
 ---
 
 ## 📚 Technical Learning & Experimental Projects
